@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    size: 50%;
+    color: #c78e34;
+    font-style: oblique;
+    font-size: 10em;
+    background-color: #432520;
+    margin: 0%;
+}
+img{
+    margin: 20px;
+}
+.menu{
+    margin: 2em;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 1em;
+}
+h2{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 100px;
+}
